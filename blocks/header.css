@@ -1,0 +1,11 @@
+.header {
+  display: flex;
+  justify-content: center;
+  padding-top: 2.5%;
+}
+
+.header__logo {
+  max-width: 255px;
+  width: 20%;
+  min-width: 160px;
+}
